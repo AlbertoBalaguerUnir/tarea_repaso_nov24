@@ -26,10 +26,14 @@ Creamos el archivo readme.md y procedemos a su modificación.
 
 Guardamos el archivo readme.md y realizamos el primer commit a las 13:24
 
-Nueva modificación:
+Nueva modificación (2ª):
     Los datos se han subido al repositorio local. 
     Hacemos esta nueva modificación y volvemos a realizar el commit. 
 
+
+Nueva modificación (3ª):
+    Los datos se han subido al repositorio local. 
+    Hacemos esta nueva modificación y volvemos a realizar el commit. 
 
 
 
