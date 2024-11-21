@@ -34,7 +34,4 @@ Nueva modificación (2ª):
 Nueva modificación (3ª):
     Los datos se han subido al repositorio local. 
     Hacemos esta nueva modificación y volvemos a realizar el commit. 
-
-
-
-    
+  
