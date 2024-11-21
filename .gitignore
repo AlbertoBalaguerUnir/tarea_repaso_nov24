@@ -1,0 +1,8 @@
+#En .gitignore se incluyen los archivos y directorios que han de ser ignorados por Git.
+#Vamos a ignorar los siquientes directorios y archivos:
+
+/local_config/
+.env
+.tmp
+
+
